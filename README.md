@@ -1,13 +1,23 @@
 # OneTab Night-Mode
 Little theme for the [onetab page](chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/onetab.html) to make it less eye raping.
+
 [Onetab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) is a chrome extentsion to help you stay organized by collapsing all your tabs into a list in "one tab."
+
+<details>
+   <summary><b><font size="24">Image Preview</b></font></summary>
+  <p>
+<!-- the above p cannot start right at the beginning of the line and is mandatory for everything else to work -->
+<img src=https://i.imgur.com/kyQLht5.png>
+  </p></details>
+</p></details>
+
 
 ## Installation:
 **Windows**
 
 **1.**  Download the [onetab.css file](https://raw.githubusercontent.com/pullup/OneTab-Night-Mode/master/onetab.css) (right click --> "Save as...")
 
-  or the [Easy Install zip](https://github.com/pullup/OneTab-Night-Mode/raw/master/Easy%20Drag%20and%20Drop%20Install.zip), instructions <a href="#Lazy_Method">here</a>.
+  or the [Easy Install zip](https://github.com/pullup/OneTab-Night-Mode/raw/master/Install/Easy%20Drag%20and%20Drop%20Install.zip), instructions <a href="#Lazy_Method">here</a>.
 
 
 **2.** Drop / paste it into (note you must replace `YOUR_WINDOWS_USERNAME_HERE` with your windows username, and make sure it's on the correct drive.)
@@ -21,14 +31,16 @@ Little theme for the [onetab page](chrome-extension://chphlpgkkbolifaimnlloiipkd
 
  Now you can just click "add extentsion" [here](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) and the theme will be gone.
 
-**2.** Alternatively you can follow the same steps as instillation, but using the [uninstall file](https://raw.githubusercontent.com/pullup/OneTab-Night-Mode/master/UnInstall/onetab.css) (which is also included in the Easy Install zip.)
+**2.** Alternatively you can follow the same steps as instillation, but using the [uninstall file](https://raw.githubusercontent.com/pullup/OneTab-Night-Mode/master/UnInstall/onetab.css) (which is also included in the [Easy Install zip](https://github.com/pullup/OneTab-Night-Mode/raw/master/Install/Easy%20Drag%20and%20Drop%20Install.zip).)
 
+***
 ## Info:
 Just downloaded the plugin and I see that the main page it creates is quite eye raping with no apparent option to fix this.
 So I've gone and whipped up a little alternative theme they could create a toggle for.
 
 I also hope that they will consider making their project open source on Github so that people can suggest edits like this a bit easier.
 
+***
 ## Troubleshooting:
 If the plugin is updated I'll likely need to update the install directions and easy install zip, please just post an issue [here](https://github.com/pullup/OneTab-Night-Mode/issues) to let me know. I'll deal with it whenever I see it.
 
