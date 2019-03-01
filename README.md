@@ -45,7 +45,7 @@ Little theme for the [onetab page](chrome-extension://chphlpgkkbolifaimnlloiipkd
 ***
 ### <a id=Firefox>Firefox</a>
 
-Update: Found a [similar extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/better-onetab/) that offers a night mode, **I'd still advise reading below, though.**
+Update: Found a [similar extension for Firefox](https://github.com/cnwangjie/better-onetab) that offers a night mode, **I'd still advise reading below, though.**
 
 Couldn't figure out how to compile it in a way that didn't make firefox recognize it as "corrupt."
 
