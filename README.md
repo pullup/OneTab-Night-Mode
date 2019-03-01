@@ -11,11 +11,26 @@ Little theme for the [onetab page](chrome-extension://chphlpgkkbolifaimnlloiipkd
   </p></details>
 </p></details>
 
+## Table of Contents
 
-## Installation:
+1. <b><a href=Installation>Installation</a></b>
+   * <a href=Chrome><i>Chrome</i></a>
+   * <a href=Firefox><i>Firefox</i></a>
+   * <a href=Installation><i>Linux</i></a>
+2. <a href=Uninstall><b>Uninstall</a></b>
+1. <a href=Info><b>Info</a></b>
+1. <a href=Troubleshooting><b>Troubleshooting</a></b>
+
+
+
+
+
+
+
+## <a id=Installation>Installation:</a>
 **Windows**
 
-**Chrome**
+### <a id=Chrome>Chrome</a>
 
 **1.**  Download the [onetab.css file](https://raw.githubusercontent.com/pullup/OneTab-Night-Mode/master/onetab.css) (right click --> "Save as...")
 
@@ -28,7 +43,7 @@ Little theme for the [onetab page](chrome-extension://chphlpgkkbolifaimnlloiipkd
    
    **b** <a id=Lazy_Method>or</a> just download [this handy dandy zip file](https://github.com/pullup/OneTab-Night-Mode/raw/master/Easy%20Drag%20and%20Drop%20Install.zip), hit "Windows Key + R" type `%appdata`, click back from `%\AppData\Roaming` to `%\AppData` (just click "AppData" in the navigation bar) then just drag and drop the "Local" folder from the zip into any empty space in the "AppData" folder. Now just click "Replace the file in this destination" and your installation is complete.
 ***
-**Firefox**
+### <a id=Firefox>Firefox</a>
 
 Update: Found a [similar extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/better-onetab/) that offers a night mode, **I'd still advise reading below, though.**
 
@@ -46,9 +61,17 @@ I use them myself and can't believe it too me so damn long to find them. They're
 
 ~~**4.** Drag and drop the onetab.css file you downloaded in step one into the zip.~~
 
+***
+### <a id=Linux>Linux</a>
+
+Poke around for where extensions are installed and when you find the onetab extension location, replace the onetab.css file with this one. Doesn't seem to work with Firefox, and I don't use it enough to put effort into figuring it out. Firefox has has a [different version of the extension with a dark / night mode](https://github.com/cnwangjie/better-onetab). It can be found [here](https://github.com/cnwangjie/better-onetab). I have no affileation with this addon, I just saw somneone on reddit who wanted a night mode fore onetab had updated his post with a link to that.
+
+I won't be attempting to make a guide for every distribution of linux, and we usually know our way around our systems. 
+If someone wants to do a merge request or add an issue with a specific linux distribution guide, I'll add it here.
 
 
-## Uninstall
+
+## <a id=Uninstall>Uninstall</a>
 **1.** The easiest thing to do is right click the extentsion then click "remove from chrome."
 
  Now you can just click "add extentsion" [here](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) and the theme will be gone.
@@ -56,14 +79,14 @@ I use them myself and can't believe it too me so damn long to find them. They're
 **2.** Alternatively you can follow the same steps as instillation, but using the [uninstall file](https://raw.githubusercontent.com/pullup/OneTab-Night-Mode/master/UnInstall/onetab.css) (which is also included in the [Easy Install zip](https://github.com/pullup/OneTab-Night-Mode/raw/master/Install/Easy%20Drag%20and%20Drop%20Install.zip).)
 
 ***
-## Info:
+## <a id=Info>Info:</a>
 Just downloaded the plugin and I see that the main page it creates is quite eye raping with no apparent option to fix this.
 So I've gone and whipped up a little alternative theme they could create a toggle for.
 
 I also hope that they will consider making their project open source on Github so that people can suggest edits like this a bit easier.
 
 ***
-## Troubleshooting:
+## <a id=Troubleshooting>Troubleshooting:</a>
 If the plugin is updated I'll likely need to update the install directions and easy install zip, please just post an issue [here](https://github.com/pullup/OneTab-Night-Mode/issues) to let me know. I'll deal with it whenever I see it.
 
 If you have any other troubles, feel free to post them in [#Issues](https://github.com/pullup/OneTab-Night-Mode/issues), I'll try to get back to you when I can.
