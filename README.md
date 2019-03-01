@@ -37,13 +37,13 @@ If you want night mode everywhere in firefox and on Windows too, I'd highly reco
 
 I use them myself and can't believe it too me so damn long to find them. They're truly a blessing from heaven.
 
-~~**1.** Download the [onetab.css file](https://raw.githubusercontent.com/pullup/OneTab-Night-Mode/master/onetab.css) (right click --> "Save as...")
+~~**1.** Download the [onetab.css file](https://raw.githubusercontent.com/pullup/OneTab-Night-Mode/master/onetab.css) (right click --> "Save as...")~~
 
-~~**2.**  Navigate to (replace things in caps) `C:\Users\YOUR_WINDOWS_USERNAME\AppData\Roaming\Mozilla\Firefox\Profiles\WHATEVER_YOUR_PROFILE_IS\extensions`
+~~**2.**  Navigate to (replace things in caps) `C:\Users\YOUR_WINDOWS_USERNAME\AppData\Roaming\Mozilla\Firefox\Profiles\WHATEVER_YOUR_PROFILE_IS\extensions`~~
 
-~~**3.** Then open "extension@one-tab.com.xpi" with 7zip, now you can delete the "onetab.css" file.
+~~**3.** Then open "extension@one-tab.com.xpi" with 7zip, now you can delete the "onetab.css" file.~~
 
-~~**4.** Drag and drop the onetab.css file you downloaded in step one into the zip.
+~~**4.** Drag and drop the onetab.css file you downloaded in step one into the zip.~~
 
 
 
