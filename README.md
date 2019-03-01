@@ -1,7 +1,7 @@
 # OneTab Night-Mode
 Little theme for the [onetab page](chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/onetab.html) to make it less eye raping.
 
-[Onetab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) is a chrome extentsion to help you stay organized by collapsing all your tabs into a list in "one tab."
+<a href="https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall" target="_blank">Onetab</a> is a chrome extentsion to help you stay organized by collapsing all your tabs into a list in "one tab."
 
 <details>
    <summary><b><font size="24">Image Preview</b></font></summary>
