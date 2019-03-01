@@ -29,6 +29,7 @@ Little theme for the [onetab page](chrome-extension://chphlpgkkbolifaimnlloiipkd
    **b** <a id=Lazy_Method>or</a> just download [this handy dandy zip file](https://github.com/pullup/OneTab-Night-Mode/raw/master/Easy%20Drag%20and%20Drop%20Install.zip), hit "Windows Key + R" type `%appdata`, click back from `%\AppData\Roaming` to `%\AppData` (just click "AppData" in the navigation bar) then just drag and drop the "Local" folder from the zip into any empty space in the "AppData" folder. Now just click "Replace the file in this destination" and your installation is complete.
 ***
 **Firefox**
+
 Update: Found a [similar extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/better-onetab/) that offers a night mode, **I'd still advise reading below, though.**
 
 Couldn't figure out how to compile it in a way that didn't make firefox recognize it as "corrupt."
