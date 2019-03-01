@@ -1,0 +1,161 @@
+body {
+}
+/*
+  Parts of this code is inspired from the following:
+  [1] https://userstyles.org/styles/104936/global-style-pitch-black
+*/
+
+html, html[class], html[id], body, body[class], body[id], input {
+  background: #0c0c0c !important;
+}
+
+div:last-child, :not(span), :not(a) {
+  border-color: #4AF !important;
+  background-color: #0c0c0c !important;
+}
+
+:link, :visited, a, h1, h2, h3, h4, h5, h6, p, img, video, div, span, img~*, img *,
+video *, video~*>*, div[style*="text-align:"] *, button, button *, div[style*="text-align:"],
+[style*="background-image:"]~*, div[style*="background-image:"] *, [style*=".gif"], [style*=".jpg"], [style*=".png"] {
+  background-color: transparent !important;
+}
+
+a, a[class] {
+  color: #9CF !important;
+}
+
+a:hover {
+  color: #39F !important;
+}
+
+li {
+  color: #8BF !important;
+}
+
+tr {
+  color: #F00 !important;
+}
+
+cite {
+  color: #268 !important;
+}
+
+input {
+  color: #5BF !important;
+}
+
+em {
+  color: #DEF !important;
+}
+
+ul {
+  color: #F00 !important;
+}
+
+nobr {
+  color: #F00 !important;
+}
+
+div {
+  color: #BDF !important;
+}
+
+strong {
+  color: #9CC !important;
+}
+
+s {
+  color: #F00 !important;
+}
+
+h1 {
+  color: #ABC !important;
+}
+
+h2 {
+  color: #DEF !important;
+}
+
+h3 {
+  color: #CFF !important;
+}
+
+* {
+  color: #7CF !important;
+}
+
+b {
+  color: #7AF !important;
+}
+
+a, span, p, div, textarea, i, td {
+  color: #ACE !important;
+  text-shadow: -1px -1px #0c0c0c, 1px -1px #0c0c0c, -1px 1px #0c0c0c, 1px 1px #0c0c0c !important;
+}
+
+::-moz-selection {
+  color: #0FF !important;
+  background-color: #333 !important;
+}
+
+::selection {
+  color: #0FF !important;
+  background-color: #333 !important;
+}
+
+::-webkit-selection {
+  color: #0FF !important;
+  background-color: #333 !important;
+}
+
+a>span.Sprite16 {
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
+}
+
+.clickable {
+    cursor:pointer;
+    color:#234da7;
+}
+input[type=text] {
+    padding: 4px 4px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 2px 2px 3px #ddd;
+    -moz-box-shadow: 2px 2px 3px #ddd;
+    outline: 0;
+    -webkit-appearance: textfield;
+}
+
+/*.cssCheckbox label:after {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    content: '';
+    position: absolute;
+    width: 9px;
+    height: 5px;
+    background: transparent;
+    top: 4px;
+    border: 3px solid #333;
+    border-top: none;
+    border-right: none;
+
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.cssCheckbox label:hover::after {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+    filter: alpha(opacity=30);
+    opacity: 0.5;
+}
+
+.cssCheckbox input[type=checkbox]:checked + label:after {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+} */
