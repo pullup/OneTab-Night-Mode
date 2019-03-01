@@ -16,7 +16,7 @@ Little theme for the [onetab page](chrome-extension://chphlpgkkbolifaimnlloiipkd
 1. <b><a href="#Installation">Installation</a></b>
    * <a href="#Chrome"><i>Chrome</i></a>
    * <a href="#Firefox"><i>Firefox</i></a>
-   * <a href="#Installation"><i>Linux</i></a>
+   * <a href="#Linux"><i>Linux</i></a>
 2. <a href="#Uninstall"><b>Uninstall</a></b>
 1. <a href="#Info"><b>Info</a></b>
 1. <a href="#Troubleshooting"><b>Troubleshooting</a></b>
