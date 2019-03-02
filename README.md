@@ -51,7 +51,7 @@ Couldn't figure out how to compile it in a way that didn't make firefox recogniz
 
 If you want night mode everywhere in firefox and on Windows too, I'd highly recommend checking out Windows "High Contrast" settings.
 
-I use them myself and can't believe it too me so damn long to find them. They're truly a blessing from heaven.
+I use them myself and can't believe it took me so damn long to find them. They're truly a blessing from heaven.
 
 ~~**1.** Download the [onetab.css file](https://raw.githubusercontent.com/pullup/OneTab-Night-Mode/master/onetab.css) (right click --> "Save as...")~~
 
